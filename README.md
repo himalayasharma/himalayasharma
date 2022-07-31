@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himalaya</h1>
+<h1 align="center">Hi 👋, I'm Himalaya Sharma</h1>
 <h3 align="center">A Data Science & Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himalayasharma&label=Profile%20views&color=0e75b6&style=flat" alt="himalayasharma" /> </p>
@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/himalayasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himalayasharma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13626163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13626163" height="30" width="40" /></a>
 <a href="https://medium.com/@himalaya-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himalaya-sharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnjy6bdys62n7dmaepjpuyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnjy6bdys62n7dmaepjpuyw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnJy6bDYs62N7dmaEpJpUYw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnjy6bdys62n7dmaepjpuyw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **math, computer science and how to live life to its fullest**
 
-- 👨‍💻 All of my projects are available at [https://himalayasharma.github.io/](https://himalayasharma.github.io/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/himalayasharma?tab=repositories)
 
-- 📝 I occasionally blog on [https://medium.com/@himalaya-sharma](https://medium.com/@himalaya-sharma)
+- 📝 I occasionally blog on [Medium]](https://medium.com/@himalaya-sharma)
 
 - ⚡ I am a **massive movie buff & stand-up comedy fan**
 

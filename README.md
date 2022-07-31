@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/himalayasharma?tab=repositories)
 
-- 📝 I occasionally blog on [Medium]](https://medium.com/@himalaya-sharma)
+- 📝 I occasionally blog on [Medium](https://medium.com/@himalaya-sharma)
 
 - ⚡ I am a **massive movie buff & stand-up comedy fan**
 

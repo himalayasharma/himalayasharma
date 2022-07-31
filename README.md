@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himalaya Sharma</h1>
-<h3 align="center">A Data Science & Machine Learning enthusiast</h3>
+<h3 align="center">A Data Science & Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himalayasharma&label=Profile%20views&color=0e75b6&style=flat" alt="himalayasharma" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 📝 I occasionally blog on [https://medium.com/@himalaya-sharma](https://medium.com/@himalaya-sharma)
 
-- ⚡ Fun fact **Massive movie buff & stand-up comedy fan**
+- ⚡ I am a **massive movie buff & stand-up comedy fan**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

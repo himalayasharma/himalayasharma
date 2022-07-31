@@ -5,12 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+I'm currently a graduate student at University of Waterloo in the Electrical & Computer Engineering department specializing in Arificial Intelligence & Machine Learning. I have 1+ year of research experience working as Research Intern at Technical University of Vienna and New York University Abu Dhabhi.
 - 🌱 I’m currently learning **math, computer science and how to live life to its fullest**
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/himalayasharma?tab=repositories)
-
 - 📝 I occasionally blog on [Medium](https://medium.com/@himalaya-sharma)
-
 - ⚡ I am a **massive movie buff & stand-up comedy fan**
 
 <!-- ### Blogs posts -->

@@ -9,8 +9,8 @@ I'm currently a graduate student at University of Waterloo in the Electrical & C
 - 🌱 I’m currently learning **math, computer science and how to live life to its fullest**.
 - 👨‍💻 All of my projects are available at [Github](https://github.com/himalayasharma?tab=repositories).
 - 📝 I occasionally blog on [Medium](https://medium.com/@himalaya-sharma).
-- 📸 I am a part-time YouTuber. Check out my videos [here](https://www.youtube.com/channel/UCnJy6bDYs62N7dmaEpJpUYw).
-- ⚡ I am a **massive movie buff & stand-up comedy fan**.
+- 📸 I also make videos. Check them out on [YouTube](https://www.youtube.com/channel/UCnJy6bDYs62N7dmaEpJpUYw).
+- ⚡ I am a massive movie buff & stand-up comedy fan.
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->

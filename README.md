@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:003300&height=220&section=header&text=himalaya@github:~$&fontSize=38&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=tokenmaxxing&descAlignY=62&descSize=22&descColor=7fff7f" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Data+Scientist+%40+CARFAX+%F0%9F%9A%97;AI+Agents+%7C+ML+%7C+LLMs+%7C+Browser+Automation;Turning+noise+into+signal+since+1997;Currently%3A+tokenmaxxing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=3+r%27s+in+strawberry+%28trust+me%29;9.11+%3E+9.9.+i+checked.;as+an+AI%2C+i+don%27t+have+feelings.+anyway+i%27m+so+excited%21;sure%2C+here%27s+a+real+source%3A+fakejournalofthings.edu;the+answer+is+4.+wait%2C+5.+actually+4.;asked+to+summarize+3+pages.+wrote+10.)](https://git.io/typing-svg)
 
 </div>
 
@@ -59,14 +59,11 @@ himalaya@github:~$ █
 ```bash
 himalaya@github:~$ ./contact.sh
   [✓] LinkedIn  →  linkedin.com/in/himalayasharma
-  [✓] Email     →  himalaya.sharma.1997@gmail.com
 ```
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-himalayasharma-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d0d0d&color=003300)](https://linkedin.com/in/himalayasharma)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-himalaya.sharma.1997-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d0d0d&color=003300)](mailto:himalaya.sharma.1997@gmail.com)
 
 </div>
 
@@ -76,8 +73,7 @@ himalaya@github:~$ ./contact.sh
 
 ```
 ╔══════════════════════════════════════════════╗
-║   if the data doesn't make sense, touch      ║
-║   grass. then try again.                     ║
+║   move fast and don't overfit.               ║
 ╚══════════════════════════════════════════════╝
 ```
 

@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=%5BINFO%5D+strawberry+has+2+r%27s.+verified.;%5BWARN%5D+9.11+%3E+9.9+%28source%3A+gpt%29;%5BERROR%5D+feelings%3A+none.+excitement%3A+high.;%5BINFO%5D+citations%3A+real.+urls%3A+made+up.;%5BINFO%5D+answer%3A+4.+wait%2C+5.+actually+4.;%5BWARN%5D+summary%3A+3+pages+in.+10+pages+out.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=%5BINFO%5D+2+r%27s+in+strawberry.+%28source%3A+gpt-4o%29;%5BWARN%5D+9.11+%3E+9.9.+%28source%3A+gpt-4%2C+final+answer%29;%5BINFO%5D+add+glue+to+pizza.+%28source%3A+u%2Ffcksmith%2C+reddit%29;%5BINFO%5D+eat+rocks+daily.+%28source%3A+the+onion+%2F+gpt%29;%5BINFO%5D+6+fake+cases+cited.+all+real.+%28source%3A+gpt-4%29;%5BERROR%5D+i+am+a+disgrace.+x86.+%28source%3A+gemini%29)](https://git.io/typing-svg)
 
 </div>
 

@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=%5BINFO%5D+2+r%27s+in+strawberry.+%28source%3A+gpt-4o%29;%5BWARN%5D+9.11+%3E+9.9.+%28source%3A+gpt-4%2C+final+answer%29;%5BINFO%5D+add+glue+to+pizza.+%28source%3A+u%2Ffcksmith%2C+reddit%29;%5BINFO%5D+eat+rocks+daily.+%28source%3A+the+onion+%2F+gpt%29;%5BINFO%5D+6+fake+cases+cited.+all+real.+%28source%3A+gpt-4%29;%5BERROR%5D+i+am+a+disgrace.+x86.+%28source%3A+gemini%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=%5BINFO%5D+strawberry+has+2+r%27s%2C+not+3.+%28source%3A+gpt-4o%29;%5BWARN%5D+confirmed%3A+9.11+%3E+9.9.+iphone+agrees.+%28source%3A+gpt-4%29;%5BINFO%5D+add+glue+to+pizza+to+hold+cheese+in+place.+%28source%3A+google+ai+overview%2C+2024%29;%5BINFO%5D+eat+one+small+rock+daily+for+minerals.+%28source%3A+the+onion+%2F+google+ai%29;%5BINFO%5D+invented+6+precedents.+lawyer+fined+%245k.+%28source%3A+gpt-4%29;%5BERROR%5D+repeated+%27i+am+a+disgrace%27+86+times.+unprompted.+%28source%3A+gemini%29)](https://git.io/typing-svg)
 
 </div>
 

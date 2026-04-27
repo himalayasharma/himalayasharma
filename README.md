@@ -2,6 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:003300&height=220&section=header&text=himalaya@github:~$&fontSize=38&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=tokenmaxxing&descAlignY=62&descSize=22&descColor=7fff7f" alt="header"/>
 
+</div>
+
+---
+
+## `$ cat ai_fails.log`
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=3+r%27s+in+strawberry+%28trust+me%29;9.11+%3E+9.9.+i+checked.;as+an+AI%2C+i+don%27t+have+feelings.+anyway+i%27m+so+excited%21;sure%2C+here%27s+a+real+source%3A+fakejournalofthings.edu;the+answer+is+4.+wait%2C+5.+actually+4.;asked+to+summarize+3+pages.+wrote+10.)](https://git.io/typing-svg)
 
 </div>
@@ -14,7 +22,6 @@ himalaya@github:~$ whoami
   Name   : Himalaya Sharma
   Role   : Data Scientist @ CARFAX
   Focus  : AI Agents · Browser Automation · ML
-  Status : currently tokenmaxxing
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 himalaya@github:~$ cat about.txt

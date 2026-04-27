@@ -75,15 +75,12 @@
 
 ---
 
+## `$ cat philosophy.txt`
+
+```
+  move fast and don't overfit.
+```
+
 <div align="center">
-
-```
-himalaya@github:~$ cat philosophy.txt
-╔══════════════════════════════════════════════╗
-║   move fast and don't overfit.               ║
-╚══════════════════════════════════════════════╝
-```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:008f11,100:00ff41&height=130&section=footer&animation=fadeIn" alt="footer"/>
-
 </div>

@@ -78,6 +78,7 @@
 <div align="center">
 
 ```
+himalaya@github:~$ cat philosophy.txt
 ╔══════════════════════════════════════════════╗
 ║   move fast and don't overfit.               ║
 ╚══════════════════════════════════════════════╝

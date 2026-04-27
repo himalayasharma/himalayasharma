@@ -6,31 +6,31 @@
 
 ---
 
-## `$ cat ai_fails.log`
+## `$ cat chatgpt_deep_research_report.log`
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=3+r%27s+in+strawberry+%28trust+me%29;9.11+%3E+9.9.+i+checked.;as+an+AI%2C+i+don%27t+have+feelings.+anyway+i%27m+so+excited%21;sure%2C+here%27s+a+real+source%3A+fakejournalofthings.edu;the+answer+is+4.+wait%2C+5.+actually+4.;asked+to+summarize+3+pages.+wrote+10.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=%5BINFO%5D+strawberry+has+2+r%27s.+verified.;%5BWARN%5D+9.11+%3E+9.9+%28source%3A+gpt%29;%5BERROR%5D+feelings%3A+none.+excitement%3A+high.;%5BINFO%5D+citations%3A+real.+urls%3A+made+up.;%5BINFO%5D+answer%3A+4.+wait%2C+5.+actually+4.;%5BWARN%5D+summary%3A+3+pages+in.+10+pages+out.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```bash
-himalaya@github:~$ whoami
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## `$ whoami`
+
+```
   Name   : Himalaya Sharma
   Role   : Data Scientist @ CARFAX
   Focus  : AI Agents · Browser Automation · ML
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-himalaya@github:~$ cat about.txt
+## `$ cat about.txt`
+
+```
   🤖  Building AI agents that actually do things
   🏸  Badminton on weekdays
   🎬  Massive movie buff — will debate cinema unprompted
   ⚡  Stand-up comedy fan
-
-himalaya@github:~$ █
 ```
 
 ---
@@ -63,8 +63,7 @@ himalaya@github:~$ █
 
 ## `$ ./contact.sh`
 
-```bash
-himalaya@github:~$ ./contact.sh
+```
   [✓] LinkedIn  →  linkedin.com/in/himalayasharma
 ```
 
